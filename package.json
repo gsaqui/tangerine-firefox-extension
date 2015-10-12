@@ -1,0 +1,12 @@
+{
+  "title": "Tangerine Firefox",
+  "name": "tangerine-firefox-extension",
+  "version": "0.0.1",
+  "description": "A basic add-on",
+  "main": "index.js",
+  "author": "gsaqui",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
